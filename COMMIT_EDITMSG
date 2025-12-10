@@ -1,0 +1,10 @@
+Add user authentication and shopping cart functionality to the website
+
+Introduces `AuthDialog` and `CartSheet` components, integrates them into the Navbar, and adds "Add to Cart" functionality with toast notifications to `ProductCard`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: fb9ebf45-0cef-4a66-8f31-d28005002bb2
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: cb6668ca-4432-42bf-a574-0db0cacfbb19
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/2e93a717-dd8a-4a5c-930c-72a669715c68/fb9ebf45-0cef-4a66-8f31-d28005002bb2/c4SXc12
+Replit-Helium-Checkpoint-Created: true
